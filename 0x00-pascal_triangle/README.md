@@ -12,5 +12,3 @@ The `pascal_triangle(n)` function generates Pascal's Triangle for `n` rows and r
 
 ### Returns
 - A list of lists, where each inner list contains the coefficients for that row in Pascal's Triangle.
-
-```python
